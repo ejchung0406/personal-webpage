@@ -57,7 +57,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
+      <p class="wordwrap"><a href=" {{ post.paperurl }} ">[Paper]</a><a href=" {{ post.youtube }} "> [YouTube]</a><a href=" {{ post.ppt }} "> [PPT]</a></p>
     {% endif %}
 
   </article>
