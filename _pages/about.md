@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm Euijun Chung, a first year PhD student at Georgia Tech.
+### Hello!
+I’m **Euijun (_E - June_) Chung**, a first-year Ph.D. student at Georgia Tech. My research focuses on GPU architecture, GPU security, and GPU simulations. I am a member of the HPArch research group [(link)](https://sites.gatech.edu/hparch/), where I am advised by Professor Hyesoon Kim.
 
-My research area includes GPU Architecture, GPU security, and GPU simulations.
+### Reach me at: 
+- Offline: Georgia Tech KACB 2206 / 2337
+- Online: euijun \<at> gatech.edu
 
-I'm in HPArch research group [(link)](https://sites.gatech.edu/hparch/), advised by Hyesoon Kim.
+### Research Interests:
+I'm working on GPU simulations and performance modeling. Lately, I’ve been developing techniques to speed up GPU simulations, especially for the large machine learning tasks that are increasingly run on GPUs. Since these simulations can take a long time, I use statistical sampling methods to reduce the size and time required while still keeping the results accurate. 
+
+I’m also extending these sampling techniques to distributed systems, where multiple GPUs collaborate, making it easier to efficiently simulate large-scale AI systems. My work helps accelerate the development of machine learning and high-performance computing systems.
 
 <!-- ---
 permalink: /
