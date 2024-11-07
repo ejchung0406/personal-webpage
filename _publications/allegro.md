@@ -2,7 +2,7 @@
 title: "Allegro: GPU Simulation Acceleration for Machine Learning Workloads"
 collection: publications
 permalink: /publication/allegro
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '<b>Euijun Chung</b>, Seonjin Na, and Hyesoon Kim'
 date: 2024-06-29
 venue: 'MLArchSys (Machine Learning for Computer Architecture and Systems) 2024, Workshop co-located with ISCA 2024'
 paperurl: 'https://openreview.net/pdf?id=aYbb7xZuu6'
